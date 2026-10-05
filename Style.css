@@ -4,7 +4,7 @@ body {
     color: #333333;
     margin: 0;
 }
-header{
+header {
     background-color: #333333;
     color: white;
     text-align: center;
@@ -24,7 +24,7 @@ main {
     width: 80%;
     margin: auto;
 }
-section{
+section {
     background-color: white;
     margin: 20px 0;
     padding: 20px;
